@@ -1,5 +1,6 @@
 # LMM-recommendation-system
-Abstract
+
+Abstract:
 Accurate prediction of users' responses to items is one of the main aims of many computational advising applications. Examples include recommending movies, news articles, songs, jobs, clothes, books and so forth. However, most traditional recommendation systems have low accuracy of recommendation. The aim of this project is to find certain latent association between user features (e.g., age, gender, occupation) and item features through mining and learning some stable benchmark data sets, and then make a reasonable statistical inference or recommendation for business development. Experimental results show that the linear mixed model can effectively analyze the differences between different users’ characteristics on movie rating, and the impact of different occupational characteristics on the rating analyze is the most significant.
 
 Introduction：
